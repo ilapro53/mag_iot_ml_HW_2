@@ -1,0 +1,5 @@
+Для домашки
+
+1.   Сделать 3 ансамбля (bagging, boosting, stacking)
+2.   Вывести показания Acc, BA, F1,F2
+3.   Победить GradientBoostiing
