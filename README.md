@@ -1,4 +1,4 @@
-# mag_iot_ml_HW_2 — IoT + ML
+# mag_iot_ml_HW_2 - IoT + ML
 
 _Курс:_ IoT и магистратура
 
